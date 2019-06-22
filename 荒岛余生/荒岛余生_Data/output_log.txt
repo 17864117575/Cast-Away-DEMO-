@@ -1,0 +1,80 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\发布项目\荒岛余生\荒岛余生_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\发布项目\荒岛余生\荒岛余生_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\发布项目\荒岛余生\荒岛余生_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.334 seconds
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\发布项目\荒岛余生\荒岛余生_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.854565 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 908 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.921035 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.212513 ms (FindLiveObjects: 0.017230 ms CreateObjectMapping: 0.008205 ms MarkObjects: 0.172718 ms  DeleteObjects: 0.012717 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.092515 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1871.
+Total: 1.016207 ms (FindLiveObjects: 0.107897 ms CreateObjectMapping: 0.040205 ms MarkObjects: 0.848001 ms  DeleteObjects: 0.018871 ms)
+
+上帝的恩赐
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+椰树
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+椰树
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+上帝的恩赐
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+大漠之花（幼生期）
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
