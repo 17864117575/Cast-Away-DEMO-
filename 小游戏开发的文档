@@ -1,0 +1,65 @@
+小游戏开发
+---
+
+[unity界面和代码分离解决方案](https://blog.csdn.net/MaxLykoS/article/details/78725932)
+---
+- 选角色
+ - [Unity在UI界面上显示3D模型/物体，控制模型旋转](https://blog.csdn.net/ChinarCSDN/article/details/81058773)
+
+- 用于游戏开始时候,当游戏暂停的时候重新恢复也要调用该函数
+ - [Unity倒计时动画](https://blog.csdn.net/wangkai19952008/article/details/77097982)
+- 用于地图的循环
+ - [无限场景](https://blog.csdn.net/Mr_Wang____/article/details/78531330)
+ - [unity无限地图](https://blog.csdn.net/gaofd/article/details/52095315)
+- 用于掉血时候
+ - [Unity 屏幕震动效果实现](https://blog.csdn.net/u013452440/article/details/70858077)
+- 死亡后
+ - [Unity3d 屏幕特效实现类似死亡之后的全屏黑白效果]https://blog.csdn.net/wolf96/article/details/41683651
+
+---
+- 怪物可被击退、不可被击退
+
+---
+- 模式可以选择蓝牙连接
+ - [unity 2017.3 安卓蓝牙（一）初始化蓝牙连接](https://blog.csdn.net/testiness_wind/article/details/80677963)
+
+
+- [道具特效]https://www.cgjoy.com//forum.php?mod=viewthread&tid=212780
+
+- [unity3d 摄像机跟随角色时被物体遮挡解决方案](https://blog.csdn.net/u014306293/article/details/70065625)
+
+-----------
+- [Unity3D教学 开发简单版第一人称射击游戏 可以多人联机（附源码）](https://blog.csdn.net/sumkee911/article/details/54908292)
+- [Unity3d之多人游戏与网络（联机冰球对战）](https://blog.csdn.net/Wonderful_sky/article/details/80788546)
+- [局域网游戏联机大厅建主模式实现附（Unity）](https://blog.csdn.net/kzhenguo/article/details/76099819)
+
+----
+
+- 相机的2d平滑跟随和3d平滑跟随是不同的
+
+- [3d跟随](https://blog.csdn.net/alayeshi/article/details/46804371)
+- [3d选角度跟随](https://blog.csdn.net/battletiger/article/details/76503479)
+
+- [2d跟随](https://blog.csdn.net/lei_7103/article/details/55048462)
+
+-----
+- [模拟昼夜交替2d](https://blog.csdn.net/qq992817263/article/details/51802635)
+
+- 左利手模式
+
+------
+
+- [按钮点击问题] 给按钮底层或点击事件添加快速点击限制（h5中已添加，Layaext下）
+- 判断货币不足、材料不足的问题是否可以做通用。只要添加货币的类型、物品的id即可判断
+- 并且配置中要加有货币类型的配置
+
+
+- 活动弹窗时，例如：新活动弹窗把它放到单独一层的ui层面（父容器），方便后续操作，在每个相关的类里去调用基类的打开关闭方法，清空缓存即可。在跳转或者是任何场景下可以自由的显示或者隐藏。
+
+
+-----
+1.程序研发中应尽量考虑到数值达到顶峰、低峰以及其他特殊情况的例子。这样可以避免报错、最主要的是避免体验上的尴尬。
+
+
+-----
+- lightning captor 【闪电捕捉者】
